@@ -19,3 +19,9 @@ where img is a PIL image object or an RGBA or 2D Numpy array.
     sig.export('out.wav')
 
 Signal is exported to a .wav file. Filename, of course, can be changed to whatever you like.
+
+# Prerequisites
+
+* Numpy
+* Scipy
+* PIL (Pillow in Python 3.0 and above)
